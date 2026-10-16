@@ -2,10 +2,10 @@
 <p align="center"><i>Experiment. Build. Improve.</i></p>
 
 ### 🧑‍💻 About
-- 🎯 Preparing for **JEE** (drop year) and building on the side
-- 🤖 **Vibe coder**: I turn ideas into working products with AI-assisted development
-- 🌐 Built **websites** connected to **Supabase** · 🪟 Now learning **Windows app** development
+- 🌐 Built **websites** connected to **Supabase** backends
+- 🪟 Currently learning **Windows app** development
 - 🐍 **Python** (Pandas, Matplotlib, Series) · 🗄️ **SQL** & databases for data manipulation
+- ⚡ Vibe coder, always building something new
 
 ### 🚀 Stack
 <p>
